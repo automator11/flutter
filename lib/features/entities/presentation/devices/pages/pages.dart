@@ -1,0 +1,14 @@
+export 'scan_qr_code_page.dart';
+export 'devices_page.dart';
+export 'device_details_page.dart';
+export 'configure_water_level_page.dart';
+export 'configure_temp_hum_page.dart';
+export 'create_temp_hum_alert_page.dart';
+export 'configure_controller_page.dart';
+export 'create_controller_automation_page.dart';
+export 'configure_ear_tag_page.dart';
+export 'add_ear_tag_by_batch.dart';
+export 'claim_ear_tag_page.dart';
+export 'ear_tag_route_page.dart';
+export 'devices_table_page.dart';
+export 'configure_device_page.dart';
